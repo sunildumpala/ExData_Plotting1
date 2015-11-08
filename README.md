@@ -117,14 +117,14 @@ The four plots that you will need to construct are shown below.
 Assuming that the data zip file is downloaded and the extracted txt file is available in a 'datafolder' location
 To run the plot1.R, plot2.R, plot3.R and plot4.R functions, sample R commands would look as follows
 
-<li> \> setwd("/Users/xuser/ExData_Plotting1") </li>
-<li> \> source("plot1.R") </li>
-> source("plot2.R")
-> source("plot3.R")
-> source("plot4.R")
-> datafolder <- /Users/xuser/Project-1
-> funfolder <- /Users/xuser/ExData_Plotting1
-> plot1(datafolder, funfolder)
-> plot2(datafolder, funfolder)
-> plot3(datafolder, funfolder)
-> plot4(datafolder, funfolder)
+<li>  setwd("/Users/xuser/ExData_Plotting1") </li>
+<li>  source("plot1.R") </li>
+<li>  source("plot2.R") </li>
+<li>  source("plot3.R") </li>
+<li>  source("plot4.R") </li>
+<li>  datafolder <- /Users/xuser/Project-1 </li>
+<li>  funfolder <- /Users/xuser/ExData_Plotting1 </li>
+<li>  plot1(datafolder, funfolder) </li>
+<li>  plot2(datafolder, funfolder) </li>
+<li>  plot3(datafolder, funfolder) </li>
+<li>  plot4(datafolder, funfolder) </li>
