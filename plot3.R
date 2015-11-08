@@ -1,7 +1,8 @@
 plot3 <- function(datadir, fundir) {
-  ## 'directory' is a character vector of length 1 indicating
+  ## 'datadir' is a character vector of length 1 indicating
   ## the location of the data files
-  ##
+  ## 'fundir' is a character vector of length 1 indicating 
+  ## the location of the function (in this case where the file plot3.R is located)
   
   old.dir <- getwd()
   setwd(datadir[1])
