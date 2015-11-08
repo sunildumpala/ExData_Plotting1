@@ -122,8 +122,8 @@ To run the plot1.R, plot2.R, plot3.R and plot4.R functions, sample R commands wo
 <li>  source("plot2.R") </li>
 <li>  source("plot3.R") </li>
 <li>  source("plot4.R") </li>
-<li>  datafolder <- /Users/xuser/Project-1 </li>
-<li>  funfolder <- /Users/xuser/ExData_Plotting1 </li>
+<li>  datafolder <- "/Users/xuser/Project-1" </li>
+<li>  funfolder <- "/Users/xuser/ExData_Plotting1" </li>
 <li>  plot1(datafolder, funfolder) </li>
 <li>  plot2(datafolder, funfolder) </li>
 <li>  plot3(datafolder, funfolder) </li>
