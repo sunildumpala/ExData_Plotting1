@@ -89,36 +89,36 @@ GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
 
-The four plots that you will need to construct are shown below. 
+The four plots that you will need to construct are shown below.
 
 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png)
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png)
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png)
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png)
 
 ## Additional Instructions
 
 Assuming that the data zip file is downloaded and the extracted txt file is available in a 'datafolder' location
 To run the plot1.R, plot2.R, plot3.R and plot4.R functions, sample R commands would look as follows
 
-> setwd("/Users/xuser/ExData_Plotting1")
-> source("plot1.R")
+<li> \> setwd("/Users/xuser/ExData_Plotting1") </li>
+<li> \> source("plot1.R") </li>
 > source("plot2.R")
 > source("plot3.R")
 > source("plot4.R")
